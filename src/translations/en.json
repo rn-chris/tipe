@@ -1,0 +1,84 @@
+{
+    "HomePage": {
+        "content":{
+            "0": "Book Ferry Tickets",
+            "1": "From",
+            "2": "To",
+            "3": "Departure Date",
+            "4": "Return Date",
+            "5": "Adults",
+            "6": "Children",
+            "7": "Search",
+            "8": "Check-in",
+            "9": "See my bookings",
+            "10": "Close",
+            "11": "Sure"
+        },
+        "message": {
+            "0": "Please select date !",
+            "1": "You must select one or more adult(or child)."
+        }
+    },
+    "SearchPage": {
+        "content": {
+            "0": "Departure",
+            "1": "Return",
+            "2": "Select Trip",
+            "3": "Passenger details",
+            "4": "Payment",
+            "5": "Passengers",
+            "6": "Non-Stop",
+            "7": "Booking Summary",
+            "8": "Route",
+            "9": "Total",
+            "10": "OneWay",
+            "11": "Next"
+        },
+        "status": {
+            "0": "Available",
+            "1": "Unavailable",
+            "2": "Fully booked",
+            "3": "You must purchase 6 hours ago",
+            "4": "Few seats left"
+        },
+        "message": {
+            "0": "Please select trip!"
+        }
+    },
+    "PersonalPage": {
+        "content": {
+            "0": "Personal Details",
+            "1": "The names you enter should match the ones in your passport",
+            "2": "First Name",
+            "3": "Last Name",
+            "4": "Phone Number",
+            "5": "Email"
+
+        },
+        "message": {
+            "0": "First Name field is required!",
+            "1": "Last Name field is required!",
+            "2": "Phone field is required!",
+            "3": "Email field is required!",
+            "4": "Phone field is required!"
+        }
+    },
+    "PaymentPage": {
+        "content": {
+            "0": "Payment Options",
+            "1": "Card Number",
+            "2": "Exp. Date",
+            "3": "Cardholder Name",
+            "4": "Please complete the payment in",
+            "5": "If no payment made after time up, the seats will be released"
+        },
+        "message": {
+            "0": "Card number field required !",
+            "1": "Exp. date field required !",
+            "2": "Cardholder name field required !",
+            "3": "CVV field required !",
+            "4": "The card number cannot be used !",
+            "5": "The Exp date cannot be used !"
+        }
+    }
+}

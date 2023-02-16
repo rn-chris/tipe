@@ -1,0 +1,696 @@
+@media screen and (max-width: 991px) {
+    .navbar-collapse {
+        padding: 20px;
+    }
+    .navbar-collapse li a {
+        color: white!important;
+    }
+    .icon-simple-remove {
+        color: white!important;
+    }
+    .navbar-transparent {
+        padding-top: 10px!important;
+    }
+    .from-to-place {
+        float: left;
+    }
+    .place_progress {
+        float: right;
+    }
+    .trip-list-content {
+        padding: 0px;
+    }
+    .responsive_pay {
+        display: block;
+        width: 100%;
+    }
+    .responsive_pay .payment-method-tab {
+        display: inline-block;
+        width: 30%;
+        margin-left: 8px;
+    }
+    .responsive_pay .payment-method-tab:first {
+        margin-left: 0px;
+    }
+    .pay-method {
+        display: none;
+    }
+    .trip-list-content {
+        padding-left: 20px!important;
+    }
+    .timer-content {
+        margin-left: 0px;
+    }
+    .payment-method-tab {
+        margin-bottom: 40px!important;
+    }
+    .form-control-field {
+        margin-bottom: 10px!important;
+    }
+    .navbar-brand {
+        margin-left: 0px!important;
+    }
+    .status_left {
+        float: none!important;
+        padding: 0px;
+        margin-top: 0px!important;
+    }
+}
+.col-3-custom {
+    padding: 0px 10px 0px 0px!important;
+}
+.responsive_pay {
+    display: none;
+}
+.rdrDefinedRangesWrapper {
+    display: none!important;
+}
+
+.rdtDay {
+    transition-duration: .5s;
+    color: black;
+    font-weight: bolder;
+    
+}
+.rdtDisabled {
+    color: #eadcdc!important;
+}
+.place_progress::after {
+    clear: both;
+    content: "";
+    display: block;
+}
+.navbar-toggler {
+    height: 37px;
+    margin-top: 5px;
+}
+body {
+    background: #f2f5fb!important;
+    font-family: 'Quicksand', sans-serif!important;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+     -khtml-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+}
+.status_left {
+    float: right;
+    padding-right: 30px;
+    
+}
+.color-initial * {
+    color: rgb(26, 26, 114)!important;
+    
+}
+.initial {
+    padding: 0px!important;
+    margin: 0px!important
+}
+.carousel-item img{
+    max-height: 700px!important;
+    min-height: 670px!important;
+}
+.content {
+    width: 90%!important;
+    margin: auto!important
+}
+.nav-bar-custom {
+    width: 85%;
+}
+.navbar-nav li a:hover {
+    color: #575757!important;
+}
+
+.navbar-nav *{
+    font-size: 20px;
+    color: #575757;
+    font-weight: bold;
+}
+.navbar-toggler {
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.navbar-toggler-bar {
+    background: black!important;
+}
+.main-content {
+    background: transparent;
+}
+.search-direction::after {
+    clear: both;
+    content: "";
+    display: block;
+}
+.searche-part-main {
+    padding: 20px;
+}
+.searche-part {
+    position: absolute;
+    background: white;
+    z-index: 10;
+    right: 0px;
+    width: 600px;
+}
+.for-pade-search{
+    overflow: hidden;
+}
+.searche-part h3{
+    color: black;
+}
+.searche-from {
+    display: inline-block;
+    width: 117px;
+}
+.searche-from p {
+    color: #3785fb;
+    font-size: 25px;
+    font-weight: bold;
+}
+.direction_btn {
+    background: transparent;
+    border: 0px;
+    color: black
+}
+.direction_btn_acitve , .direction_btn:hover, .direction_btn:focus {
+    background: #0A429B!important;
+    color: white;
+}
+.allow-icon {
+    display: inline-block;
+    margin: 0px 15px;
+    padding: 5px;
+    border-radius: 100%;
+    background: #0A429B;
+}
+.allow-icon:hover {
+    cursor: pointer;
+}
+.allow-icon * {
+    color: white;
+}
+.allow-icon img {
+    width: 35px;
+    filter: invert(100%);
+}
+.custom_input {
+    padding: 0px;
+    font-size: 18px;
+}
+.date-absolute{
+    position: absolute;
+    top: 0;
+    left: -20px;
+    z-index: 20;
+    background: white;
+}
+.datepicker-footer {
+    background: #c7c7c7;
+    padding: 10px
+}
+.color-custom{
+    color: black;
+}
+.serche-button {
+    padding: 20px 50px;
+    background: #0055a8;
+    /* background-image: linear-gradient(to bottom left, #00f2c3, #0098f0, #00f2c3); */
+}
+.serche-button * {
+    color: white;
+
+}
+.serche-button span {
+    font-size: 17px;
+    font-weight: bold;
+}
+.serche-button li {
+    float: right;
+    color: white;
+    font-size: 25px;
+}
+.check-in-part {
+    background: linear-gradient(to right, #a814fe 0%, #f563ee 100%);
+    height: 600px;
+}
+.check-button {
+    /* background-image: linear-gradient(to bottom right, #0041f2, #0098f0, #00f2c3); */
+    padding: 25px;
+    width: 220px;
+    background: #00c2ff;
+    
+}
+.for-pade {
+    overflow: hidden;
+}
+.check-button::after{
+    clear: both;
+    display: block;
+    content: "";
+}
+.button-letter {
+    float: left;
+}
+.button-letter * {
+    color: white;
+}
+
+.button-letter p:first-child{
+    font-size: 18px;
+    font-weight: bold;
+}
+.button-icon {
+    float: right;
+    color: white;
+}
+.button-icon li {
+    margin-top: 11px;
+    font-size: 23px;
+}
+/*Serach*/
+.nav-bar-initial {
+    background: transparent;
+}
+.search-page {
+    margin: 0px 10px!important;
+}
+.trip-list-content {
+    width: 100%;
+    padding: 20px 20px 20px 40px;
+    background: transparent;
+    min-height: 867px;
+}
+
+.trip-rist {
+    float: left;
+}
+.trip-rist h3{
+    margin:0px;
+    color: black;
+}
+.connect-line {
+    border-left: 2px dashed black;
+    float: left;
+    margin-right: 10px;
+    margin-top: 48px;
+}
+.from-to-place{
+    margin-bottom: 50px;
+}
+.start-dot {
+    border-radius: 100% 100%;
+    width: 15px;
+    height: 15px;
+    background: transparent;
+    border: 1px solid #0A429B ;
+    margin-top: -15px;
+    margin-left: -8px;
+    animation: pulse-blue 2s infinite;
+}
+.end-dot {
+    border-radius: 100% 100%;
+    width: 15px;
+    height: 15px;
+    background: #0A429B ;
+    border: 1px solid #0098f0;
+    margin-top: 85px;
+    margin-left: -8px;
+    animation: pulse-blue 2s infinite;
+    position: relative;
+    top: 15px;
+}
+
+
+@keyframes pulse-blue {
+	0% {
+		transform: scale(0.95);
+		box-shadow: 0 0 0 0 rgba(52, 172, 224, 0.7);
+	}
+	
+	70% {
+		transform: scale(1);
+		box-shadow: 0 0 0 10px rgba(52, 172, 224, 0);
+	}
+	
+	100% {
+		transform: scale(0.95);
+		box-shadow: 0 0 0 0 rgba(52, 172, 224, 0);
+	}
+}
+.card-active {
+    background: white!important;
+    /* box-shadow: 0px 0px 5px rgb(150, 150, 150); */
+    transition-duration: .5s;
+    border-radius: 10px!important;
+}
+.card-active:hover{
+    cursor: pointer;
+    box-shadow: 0px 0px 10px rgb(110, 110, 110);
+}
+.card-part{
+    padding: 15px 20px;
+    background: white;
+    border-radius: 5px;
+    /* box-shadow: 0px 0px 5px black; */
+    margin-top: 10px;
+}
+.card-part *{
+    color: black;
+    margin: 0px;
+}
+.card-list {
+    padding: 10px 25px;
+}
+.card-list::after{
+    clear: both;
+    display: block;
+    content: "";
+}
+.card-part p:first-child{
+    font-size: 12px;
+}
+.card-part p:last-child{
+    font-size: 15px;
+    font-weight: bold;
+    color: #0A429B;
+}
+.card-click-active {
+    background: #0A429B!important;
+}
+.card-click-active h4, .card-click-active sup, .card-click-active span , .card-click-active p{
+    color: white!important;
+}
+.direction-method {
+    margin-bottom: 30px;
+}
+.trip-from-list {
+    margin-top: 20px;
+}
+.trip-from-list h3 {
+    color: black;
+    margin: 30px 0px 5px 0px
+}
+.trip-time {
+    float: left;
+}
+.trip-info {
+    float: right;
+    text-align: right;
+}
+.price-content{
+    width: 100%;
+    background: #c7c7c7;
+    min-height: 937px;
+    padding: 50px 20px 0px 20px;
+}
+.price-card {
+    padding: 20px;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 7px black;
+}
+.price-card::after {
+    clear: both;
+    display: block;
+    content: "";
+}
+.price-card * {
+    color: black;
+}
+.price-card hr {
+    width: 100%;
+}
+.price-card span {
+    color: #c7c7c7;
+    font-size: 10px;
+}
+.price-card p{ 
+    display: inline-block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.date-time {
+    width: 50%;
+    display: inline-block;
+    
+}
+.line-dot {
+    border-left: 1px solid blue;
+    float: left;
+    margin-top: 26px;
+    margin-right: 10px;
+}
+.select-dot, .passenger-dot, .payment-dot {
+    border-radius: 100% 100%;
+    border: 1px solid #0098f0;
+    width: 10px;
+    height: 10px;
+    margin-top: 30px;
+    margin-left: -5px;
+    background: rgb(234, 234, 234);;
+}
+.dot-active {
+    background: #0A429B;
+}
+.from-to-place::after {
+    clear: both;
+    display: block;
+    content: "";
+}
+.complete-list {
+    float: left;
+}
+.complete-list p {
+    color: black;
+    margin-top: 20px;
+}
+.trip-list-left {
+    padding: 30px 50px;
+    float: left;
+}
+.form-field h3, p, i {
+    color: black;
+}
+.form-field {
+    padding: 50px 0px;
+}
+.form-control-field {
+    margin-bottom: 50px;
+}
+
+.react-tel-input input {
+    background: transparent!important;
+    width: 100%!important;
+    border: 1px solid black!important;
+    height: 38px!important;
+    color: black!important;
+}
+.country-list li {
+    color: black!important;
+}
+.input-init {
+    color: black;
+}
+.input-init:focus {
+    color: black;
+}
+.payment-method-tab {
+    padding: 10px 20px;
+    border: 1px solid #0098f0;
+    margin-bottom: 85px;
+    transition-duration: .1s;
+}
+.pay-card-active,  .payment-method-tab:hover{
+    border-bottom: 4px solid rgb(3, 162, 253);
+    cursor: pointer;
+    padding: 8px 20px;
+}
+.card-validate {
+    box-shadow: 0px 0px 5px red;
+    border-radius: 8px;
+}
+.button_sure {
+    background: #0A429B!important;
+    
+}
+.button_close {
+    background: transparent!important;
+    color: black!important;
+}
+.jetty {
+    width: 100%;
+    background: white;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 5px;
+    position: absolute;
+    border: 1px solid rgb(201, 201, 201);
+    z-index: 10;
+}
+.jetty ul{
+    list-style-type: none;
+    padding: 0px;
+    border-top: 1px solid rgb(168, 167, 167);
+    border-bottom: 1px solid rgb(168, 167, 167);
+    margin:0px;
+}
+.jetty ul li {
+    color: black;
+    padding: 5px;
+    transition-duration: .1s;
+}
+.jetty ul li:hover{
+    background: #00c2ff;
+    cursor: pointer;
+}
+.dot-in-progress {
+    border: 1px double rgb(3, 162, 253);
+    animation: pulse-blue 2s infinite;
+    width: 13px;
+    height: 13px;
+    margin-left: -7px;
+    background: rgb(168, 235, 252)
+}
+.dot-list-active {
+    font-weight: bold;
+}
+.pernal-button, .pernal-input {
+    display: inline-block;
+}
+.pernal-input {
+    width: 60px;
+}
+.pernal-input input {
+    height: 44px;
+    border-radius: 0px;
+    padding: 4px 22px 10px !important;
+    color: black;
+    font-size: 20px;
+}
+.pernal-input input:focus {
+    color: black;
+}
+.pernal-input input[disabled] {
+    background: transparent;
+    color: black;
+}
+.pernal-button button {
+    padding: 5px 23px;
+    font-size: 25px;
+    font-weight: bolder;
+    margin: 0px!important;
+}
+.button-left {
+    border-radius: 5px 0px 0px 5px;
+}
+.button-right {
+    border-radius: 0px 5px 5px 0px;
+}
+.timer {
+    background: rgb(54, 52, 52);
+    border-radius: 10px;
+    box-shadow: 0px 0px 3px grey;
+    padding: 15px 10px;
+    width: 100%;
+    margin-bottom: 20px;
+    position: fixed;
+    bottom: 20px;
+    width: 392px;
+}
+.timer * {
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    
+}
+.timer p{
+    font-size: 14px;
+    
+}
+.explain {
+    float: left;
+    width: 77%;
+}
+.time-dis {
+    float: left;
+    margin-left: 20px;
+}
+.time-dis h4 {
+    font-size: 25px;
+    font-weight: bolder;
+}
+.timer::after {
+    clear: both;;
+    content: "";
+    display: block;
+}
+.pade-top {
+    -webkit-animation-name: pade-top; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
+    animation-name: pade-top;
+    animation-duration: 1.5s;
+    -webkit-animation-timing-function: ease-in;
+    animation-timing-function: ease-in;
+}
+.pade-bottom {
+    -webkit-animation-name: pade-bottom; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
+    animation-name: pade-bottom;
+    animation-duration: 1s;
+    -webkit-animation-timing-function: ease-in;
+    animation-timing-function: ease-in;
+
+}
+.pade-height {
+    -webkit-animation-name: pade-height; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 2s; /* Safari 4.0 - 8.0 */
+    animation-name: pade-height;
+    animation-duration: 2s;
+    -webkit-animation-timing-function: ease-in;
+    animation-timing-function: ease-in;
+    
+}
+.pade-width {
+    -webkit-animation-name: pade-width; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 2s; /* Safari 4.0 - 8.0 */
+    animation-name: pade-width;
+    animation-duration: 2s;
+    -webkit-animation-timing-function: ease-in;
+    animation-timing-function: ease-in;
+}
+@keyframes pade-top {
+    from {
+      margin-top:-40px;
+      opacity: 0;
+    }
+    to {
+      margin-top:0px;
+      opacity: 1;
+    }
+}
+@keyframes pade-bottom {
+    from {
+      margin-top:100px;
+      opacity: 0;
+    }
+    to {
+      margin-top:0px;
+      opacity: 1;
+    }
+}
+@keyframes pade-height {
+    from {
+        height: 0px;
+    }
+    to {
+        height:410px;
+    }
+}
+@keyframes pade-width {
+    from {
+        width: 0px;
+    }
+    to {
+        width:200px;
+    }
+}

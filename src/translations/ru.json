@@ -1,0 +1,19 @@
+{
+    "HomePage": {
+        "content":{
+            "0": "Book Ferry Tickets123",
+            "1": "From123",
+            "2": "To123",
+            "3": "Departure Date123",
+            "4": "Return Date123",
+            "5": "Adults123",
+            "6": "Children123",
+            "7": "Search...123",
+            "8": "Check-in123",
+            "9": "See my bookings123"
+        },
+        "message": {
+            "0": "Please select date !123"
+        }
+    }
+}
